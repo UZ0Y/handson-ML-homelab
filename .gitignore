@@ -25,3 +25,13 @@ models/
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# Local AI agent state and instructions
+**/.codewhale/*
+!**/.codewhale/constitution.json
+.deepseek/
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+*.instructions.md
+.github/copilot-instructions.md
