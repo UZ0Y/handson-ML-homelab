@@ -1,0 +1,26 @@
+# Core Scientific Stack
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+
+# PyTorch Ecosystem
+torch
+torchvision
+torchaudio
+torchmetrics
+
+# Hugging Face Ecosystem
+transformers
+datasets
+accelerate
+peft
+trl
+
+# Other key libraries
+xgboost
+nltk
+sentence-transformers
+optuna
+jupyter

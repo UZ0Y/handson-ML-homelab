@@ -1,0 +1,27 @@
+# Virtual Environments
+homl-pytorch-env/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets and Models (Adjust based on what you download)
+*.csv
+*.zip
+*.h5
+*.pkl
+*.pt
+*.pth
+data/
+models/
+*.parquet
+
+# Jupyter Notebook output (optional, but keeps git diffs clean)
+*.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
